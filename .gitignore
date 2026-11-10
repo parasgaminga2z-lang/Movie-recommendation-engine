@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw dataset (23 MB, download from Kaggle; not needed to run the app)
+movies.csv
+
+# Word documents and temp files
+*.docx
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
