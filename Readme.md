@@ -2,9 +2,9 @@
 
 A content-based movie recommender built on the **TMDB 5000 Movies** dataset. Pick a movie and get a ranked list of similar movies, based on genres, keywords, plot overview, cast and director.
 
-**Live demo:** _add your Streamlit link here after deploying_
+**Live demo:** https://movie-recommendation-paras.streamlit.app/
 
-![App screenshot](screenshot.png)
+![![alt text](image.png)](screenshot.png)
 
 ## How it works
 
